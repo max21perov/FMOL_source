@@ -1,0 +1,296 @@
+
+.TextPro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.DynamicText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	color: #00CC00;
+}
+.ButtonPro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	background-color: #c4a47b;
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+}
+.ButtonPro A {
+	COLOR: #FFFFFF; 
+}
+.ButtonSel {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	background-color: #FF6633;
+	border: 1px solid #FFFFFF;
+	height:23px;
+}
+
+.ButtonProL {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: left;
+	background-color: #A50000;
+	border: 1px solid #FFFFFF;
+	height:23px;
+}
+.BodyTable {
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableMenu {
+    width:100%;
+	border:1px solid;
+	border-color:#191970;
+	padding:1px;
+}
+
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	FONT-FAMILY: arial;
+}
+/*
+a:link {
+	color: #ffffff;
+}
+a:visited {
+	color: #ffffff;
+}
+*/
+
+
+.cBSide {
+	BACKGROUND-COLOR: #0069b9; width:1px;
+}
+TD.gSGSectionTitle {
+	FONT-SIZE: 12px;  COLOR: #ffffff; BACKGROUND-COLOR: #A08470
+}
+DIV.gSGSectionTitle {
+	MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px;  MARGIN-BOTTOM: 2px; COLOR: #ffffff
+}
+A.gSGSectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #003399
+}
+TD.gSGSectionTitle2 {
+	FONT-SIZE: 12px;  COLOR: #ffffff; BACKGROUND-COLOR: #0069b9; vertical-align:bottom;
+}
+DIV.gSGSectionTitle2 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 12px;   MARGIN-BOTTOM: 0px; COLOR: #ffffff;
+}
+TD.gSGSectionTitle_gray {
+	FONT-SIZE: 12px;  COLOR: #ffffff; BACKGROUND-COLOR: #CCCCCC
+}
+TD.gSGSectionColumnHeadings {
+	height:16px; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #cccccc
+}
+.gSGRowEven {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #e0dfe3
+}
+.gSGRowOdd {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #ffffff
+}
+.gSGRowYellow {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: yellow
+}
+.gSGRowRed {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: red
+}
+.gSGRowOrange {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR:#FFCC00
+}
+.gSGRowEven_input {
+	height:25px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #e0dfe3
+}
+.gSGRowOdd_input {
+	height:25px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #ffffff
+}
+.gSGRowSelected_input {
+	height:25px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR:#FFCC00
+}
+.gSGRowFirstOne {
+	height:18px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #FF9900
+}
+.gSGRowLastThree {
+	height:18px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #a9a9a9
+}
+.gSGPlayerLink {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana,arial
+}
+.gSGTeamLink {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana,arial
+}
+.cBSide {
+	BACKGROUND-COLOR: #0069b9
+}
+.cBBottom {
+	BACKGROUND-COLOR: #0069b9
+}
+.cBBottom2 {
+	BACKGROUND-COLOR: #CAD6E8
+}
+.cBBottom3 {
+	BACKGROUND-COLOR:#F5BD47
+}
+.toolBar {
+	BACKGROUND-COLOR: #CAD6E8;FONT-FAMILY: verdana,arial;MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px;
+}
+.WhiteText {
+	FONT-SIZE: 12px; MARGIN: 5px 5px 5px 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.WhiteText A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.WhiteText A:hover {
+	COLOR: #f8ff15; TEXT-DECORATION: underline
+}
+.BlackText {
+	height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN: 5px 5px 5px 0px; COLOR: #000000; FONT-FAMILY: verdana, arial, Helvetica, sans-serif
+}
+.BlackText A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.BlackText A:hover {
+	COLOR: #0069b9; TEXT-DECORATION: underline
+}
+.BlackText A:visited {
+	COLOR: #000000;
+} 
+
+.SelfTeamText {
+	FONT-SIZE: 12px; MARGIN: 5px 5px 5px 0px; COLOR: #FF6633; FONT-FAMILY: verdana, arial, Helvetica, sans-serif
+}
+.SelfTeamText A {
+	COLOR: #FF6633; TEXT-DECORATION: none
+}
+.SelfTeamText A:hover {
+	COLOR: #0069b9; TEXT-DECORATION: underline
+}
+.SelfTeamText A:visited {
+	COLOR: #FF6633;
+}
+.OtherTeamText {
+	FONT-SIZE: 12px; MARGIN: 5px 5px 5px 0px; COLOR: #000000; FONT-FAMILY: verdana, arial, Helvetica, sans-serif
+}
+.OtherTeamText A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.OtherTeamText A:hover {
+	COLOR: #0069b9; TEXT-DECORATION: underline
+}
+.OtherTeamText A:visited {
+	COLOR: #000000;
+}
+TD.gSGSectionTitleStatsGridOne {
+	height:16px; FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: verdana,arial; COLOR: #ffffff; BACKGROUND-COLOR: #6495ed
+}
+TD.infoTitleStatsGrid {
+	height:16px; MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; COLOR: #ffffff; BACKGROUND-COLOR: #A08470
+}
+TD.infoStatsGrid {
+	height:16px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; COLOR: #ffffff; BACKGROUND-COLOR: #c4a47b
+}
+
+.inputField {
+    border: 1px solid #999;font-size:12px;FONT-FAMILY: verdana,arial;
+}
+.inputNoBorder {
+	border:0px;
+	font-size:12px;
+	FONT-FAMILY: verdana,arial;
+}
+.button {
+    border: 1px solid #999;font-size:12px; FONT-FAMILY: verdana,arial; cursor:hand;
+}
+
+.listover {
+    height:20px; MARGIN-TOP: 2px; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; background-color : #ffdead;
+}
+.self_team {
+    color:#FF6633;
+}
+div.player_name {
+    FONT-SIZE: 13px;FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Arial; color:#333333
+}
+div.player_name_small {
+    FONT-SIZE: 10px;FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Arial; color:#333333
+}
+.halfalpha { 
+    background-color: #000000; filter: Alpha(Opacity=92);
+}
+
+.MenuTitle {
+	MARGIN-TOP: 2px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 16px;  
+	MARGIN-BOTTOM: 2px; 
+	height:23px;
+	COLOR: #DDDDDD;
+	BACKGROUND-COLOR: #A08470;
+}
+
+
+.MenuText {
+	FONT-SIZE: 14px; 
+	MARGIN: 5px 5px 5px 0px;  
+	height:22px; 
+	COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #c4a47b;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.MenuText A {
+	COLOR: #FFFFFF; 
+	TEXT-DECORATION: none;
+}
+.MenuText A:link {
+	COLOR: #FFFFFF; 
+	TEXT-DECORATION: none;
+}
+.MenuText A:hover {
+	COLOR: #DDDDDD; 
+	TEXT-DECORATION: underline
+}
+
+.MenuText_Sel {
+	FONT-SIZE: 14px; 
+	MARGIN: 5px 5px 5px 0px;  
+	height:22px; 
+	COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #FF6633;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.MenuText_Sel A {
+	COLOR: #FFFFFF; 
+	TEXT-DECORATION: none;
+}
+.MenuText_Sel A:link {
+	COLOR: #FFFFFF; 
+	TEXT-DECORATION: none;
+}
+.MenuText_Sel A:hover {
+	COLOR: #DDDDDD; 
+	TEXT-DECORATION: underline
+}
+
+.FixWidth {overflow: auto; height:450px;  width: 740px; clip: rect( ); }
+
+.FixWidth_simple_mail {overflow: auto; height:150px;  width: 750px; clip: rect( ); }

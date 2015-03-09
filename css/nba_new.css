@@ -1,0 +1,423 @@
+BODY {
+	BACKGROUND-IMAGE: url(/images/homepage/bgtile.jpg); FONT-FAMILY: arial
+}
+TD {
+	FONT-SIZE: 11px
+}
+A {
+	COLOR: #104691; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.body {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(/images/homepage/bgtile2.jpg); MARGIN: 0px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bfbfbf
+}
+.page {
+	BACKGROUND-IMAGE: url(/images/homepage/page_bgtile.jpg)
+}
+.articlePage {
+	BACKGROUND-COLOR: #ffffff
+}
+.ePhotoLink {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.ePhotoLinkSm {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.ePhotoBorder {
+	BACKGROUND-COLOR: #000000
+}
+.ePhotoBox {
+	BACKGROUND-IMAGE: url(/images/homepage/sub_blueHdr_bgtile.jpg); HEIGHT: 20px
+}
+.pollTitle {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.pollBody {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.pollResultsLink {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.crunchTimeStatNumber {
+	FONT-SIZE: 26px; MARGIN: 5px; COLOR: #193682; FONT-FAMILY: Arial
+}
+A.thePlayers {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+A.thePlayers:visited {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+.listHeadlineLead {
+	MARGIN-TOP: 5px; FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-LEFT: 5px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listHeadline {
+	MARGIN-TOP: 5px; FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-LEFT: 5px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listHeadlineLeadLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listHeadlineSubhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listHeadlineSubheadLink {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listHeadlineBullet {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 5px; COLOR: #193682; MARGIN-RIGHT: 5px
+}
+.listPhotoCaption {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.listPhotoLink {
+	FONT-SIZE: 10px; COLOR: #003399; FONT-FAMILY: Arial
+}
+.listTeaserText {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.listMoreNewsLink {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.listBulletedLink {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial
+}
+.insideHeaderTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial; BACKGROUND-COLOR: #000000
+}
+.articleWrapper {
+	MARGIN: 10px 10px 10px 0px
+}
+.articleSubHead {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.articleHeadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; MARGIN-BOTTOM: 10px; COLOR: #104691; FONT-FAMILY: Arial, Verdana
+}
+.alHeadlineViewIn {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; MARGIN-BOTTOM: 10px; COLOR: #104691; FONT-FAMILY: Arial, Verdana
+}
+.articleByline {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.aLStoryViewIn {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.articleBody {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.newsSubSectionText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.articlePhotoCaption {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #4e4e4e; FONT-FAMILY: Arial, Verdana
+}
+.articlePhotoCredit {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.relatedLinkHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial; BACKGROUND-COLOR: #193682
+}
+.relatedLinkBoxColor {
+	BACKGROUND-COLOR: #193682
+}
+.emailStoryBoxColor {
+	BACKGROUND-COLOR: #193682
+}
+.relatedComp {
+	BACKGROUND-COLOR: #e1e1e1
+}
+.relatedLink {
+	FONT-SIZE: 10px; COLOR: #193682; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.relatedLinkBullet {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 5px; COLOR: #193682; MARGIN-RIGHT: 5px
+}
+.newsSubSectionLink {
+	FONT-SIZE: 12px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.emailStoryLink {
+	FONT-SIZE: 12px; COLOR: #193682; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.emailFormRowEven {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial; BACKGROUND-COLOR: #cccccc
+}
+.emailFormRowOdd {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial
+}
+TD.profileText {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial
+}
+.emailFormText {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.profileFieldsEven {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial; BACKGROUND-COLOR: #cccccc
+}
+TD.profileFieldsOdd {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial
+}
+SELECT.profileFieldsOdd {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+.mediaCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #193682; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.mediaLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #193682; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.siteFragment {
+	MARGIN: 5px 10px; COLOR: #003399
+}
+.rLLTitle {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial; BACKGROUND-COLOR: #003366
+}
+.alLeadPhotoCaptionLead {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial
+}
+TD.standardTextBlack {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.sBHRowEven {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial; BACKGROUND-COLOR: #cccccc
+}
+.sBHRow {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial
+}
+TD.surveyHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; MARGIN-LEFT: 5px; COLOR: #ffffff; FONT-FAMILY: arial; BACKGROUND-COLOR: #193682
+}
+TD.gSGBoxHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #003399
+}
+TD.gSGSectionTitle {
+	FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; BACKGROUND-COLOR: #0069b9
+}
+DIV.gSGSectionTitle {
+	MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff
+}
+A.gSGSectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #003399
+}
+DIV.cBTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 5px 10px; COLOR: #ffffff; FONT-FAMILY: Arial; BACKGROUND-COLOR: #0069b9
+}
+DIV.cBTitleREW {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 5px 10px; COLOR: #ffffff; FONT-FAMILY: Arial; BACKGROUND-COLOR: #0069b9
+}
+TD.gSGSectionColumnHeadings {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #cccccc
+}
+.gSGRowEven {
+	MARGIN-TOP: 2px; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: #e0dfe3
+}
+.gSGRowOdd {
+	MARGIN-TOP: 2px; FONT-SIZE: 11px; MARGIN-BOTTOM: 2px; FONT-FAMILY: verdana,arial
+}
+.gSGPlayerLink {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana,arial
+}
+.gSGTeamLink {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana,arial
+}
+TD.gSGSectionColumnHeadingsTeamIndex {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-FAMILY: verdana, arial, helvetica; BACKGROUND-COLOR: #0069b9
+}
+TD.gSGSectionColumnHeadingsStandings {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-FAMILY: verdana, arial, helvetica; BACKGROUND-COLOR: #0069b9
+}
+.cBSide {
+	BACKGROUND-COLOR: #0069b9
+}
+.cBBottom {
+	BACKGROUND-COLOR: #0069b9
+}
+.cBTop {
+	BACKGROUND-COLOR: #0069b9
+}
+TD.column1 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+TD.column2 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+TD.column3 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+.genC {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+.genC2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+TD.otherCols1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: arial; BACKGROUND-COLOR: #ffffff
+}
+TD.otherCols2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: arial; BACKGROUND-COLOR: #cccccc
+}
+TD.theHeader1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial; BACKGROUND-COLOR: #003399
+}
+TD.theHeader1a {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial; BACKGROUND-COLOR: #9ccfff
+}
+TD.theHeader2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; BACKGROUND-COLOR: #003399
+}
+A.statLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+A.statLink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cccccc; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+A.statLink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+.videoText {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial
+}
+A.videoLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.videoLink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+A.videoLink:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.video2Link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #d2d2d2; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.video2Link:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+A.video2Link:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #d2d2d2; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.videoHeadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #104691; FONT-FAMILY: verdana
+}
+.videoBullet {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial
+}
+TABLE.thisTable {
+	BACKGROUND: url(/media/nbav2/leftborder_tile.gif) repeat-y
+}
+.WhiteText {
+	FONT-SIZE: 10px; MARGIN: 5px 5px 5px 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.WhiteText A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.WhiteText A:hover {
+	COLOR: #f8ff15; TEXT-DECORATION: underline
+}
+.subWhiteText A:hover {
+	COLOR: #f8ff15; TEXT-DECORATION: underline
+}
+.subWhiteText {
+	FONT-SIZE: 10px; MARGIN: 0px 5px 0px 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.subWhiteText A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.PicOfTheDayText {
+	FONT-SIZE: 10px; MARGIN: 5px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.PicOfTheDayText A {
+	COLOR: #e0dfdd
+}
+.BodyText {
+	FONT-SIZE: 10px; MARGIN: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.SponsorText {
+	FONT-SIZE: 10px; MARGIN: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.SponsorText A {
+	COLOR: #f91239
+}
+.SponsorTextNike {
+	FONT-SIZE: 10px; MARGIN: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.SponsorTextNike A {
+	COLOR: #ff6600
+}
+.SponsorTextSprite {
+	FONT-SIZE: 10px; MARGIN: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.SponsorTextSprite A {
+	COLOR: #009900
+}
+.BleedText {
+	FONT-SIZE: 10px; COLOR: #f9f9f9; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.BleedText A {
+	COLOR: #d4d4d4
+}
+A.BleedTextHead {
+	FONT-SIZE: 10px; COLOR: #d4d4d4; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.BleedTextTeam {
+	FONT-SIZE: 10px; COLOR: #f8ff15; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.BleedTextHead:hover {
+	COLOR: #f8ff15; TEXT-DECORATION: underline
+}
+A.BleedTextTeam:hover {
+	COLOR: #d4d4d4; TEXT-DECORATION: underline
+}
+A.leadersCol {
+	FONT-SIZE: 10px; COLOR: #d4d4d4; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.leadersCol:hover {
+	COLOR: #f8ff15; TEXT-DECORATION: underline
+}
+.listTeaserText {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.listHeadlineSubhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+TABLE.thisTable {
+	BACKGROUND: url(/media/nbav2/leftborder_tile.gif) repeat-y
+}
+#contentLYR {
+	VISIBILITY: hidden; WIDTH: auto; POSITION: relative; HEIGHT: auto
+}
+#frameData {
+	VISIBILITY: hidden; WIDTH: 100px; POSITION: relative; HEIGHT: 100px
+}
+DIV.c1 {
+	Z-INDEX: 1; LEFT: 5px; WIDTH: 200px; POSITION: absolute; TOP: 23px; HEIGHT: 115px
+}
+.leftNavMargins {
+	MARGIN: 2px 2px 2px 5px; COLOR: #ffffff
+}
+.leftSubNavLink {
+	FONT-SIZE: 10px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.leftSubNavLink:hover {
+	COLOR: #cbcbcb; TEXT-DECORATION: underline
+}
+.rightCol {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(/images/homepage/right_col_bg.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #e1e1e1
+}
+.listSubHead {
+	MARGIN-TOP: 3px; FONT-WEIGHT: bold; FONT-SIZE: 10px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 3px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+TD.relatedLinkHeaderGrey {
+	BACKGROUND-IMAGE: url(/media/nba_new/related_bg_tile.jpg); HEIGHT: 20px
+}
+UL.hpBullet {
+	LIST-STYLE-IMAGE: url(http://linuxweb1/images/homepage/Sponsor_Bullet.gif); MARGIN: 0px
+}
+.sponsorBG {
+	BACKGROUND-IMAGE: url(/images/homepage/sponsor_bg.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffffff
+}
+.sipBG {
+	BACKGROUND-COLOR: #ccd4ec
+}
+#et {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
