@@ -1,0 +1,13 @@
+
+<form name="form1" method="post" action="/fmol/page/system/reply.php" >
+<input type="hidden" name="get_str">
+</form>
+
+<SCRIPT LANGUAGE="JavaScript">
+var position = window.location.href.indexOf('?');
+var get_str = window.location.href.substring(position+1);
+document.all.get_str.value = get_str;
+
+window.form1.submit();
+</script>
+
